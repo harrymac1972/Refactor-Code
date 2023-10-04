@@ -4,6 +4,12 @@
     margin: 0;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+
+}
+
 body {
     background-color: #d9dcd6;
 }
@@ -62,9 +68,11 @@ footer {
     text-align: center;
 }
 
+
 footer h2 {
     font-size: 20px;
 }
+
 
 a {
     color: #ffffff;
@@ -155,11 +163,6 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -173,11 +176,6 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -189,11 +187,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .social-media-marketing img {
