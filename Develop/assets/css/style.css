@@ -20,9 +20,6 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
 
 header nav {
     padding-top: 15px;
@@ -78,13 +75,17 @@ footer h2 {
     font-size: 20px;
 }
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+#seo {
+    color: #d9dcd6;
 }
 
 .float-left {
