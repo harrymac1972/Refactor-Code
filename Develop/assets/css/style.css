@@ -100,7 +100,9 @@ footer h2 {
     font-size: 20px;
 }
 
-#hero {
+
+/* should be in HTML because an 'alt' is not available (?) */
+#header-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -112,11 +114,6 @@ footer h2 {
 #seo {
     color: #d9dcd6;
 }
-
-/* .benefits {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
 
 .content {
     margin-bottom: 20px;
