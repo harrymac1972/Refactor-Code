@@ -109,16 +109,6 @@ footer h2 {
     font-size: 20px;
 }
 
-#header-image {
-    width: 100%;
-    height: 800px;
-    object-fit: cover;
-}
-
-#seo {
-    color: #d9dcd6;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -127,5 +117,15 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+#header-image {
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+#seo {
+    color: #d9dcd6;
 }
 
