@@ -41,13 +41,6 @@ header div ul li {
     margin-left: 25px;
 }
 
-header button {
-    background-color: transparent;
-    font-size: 18px; /*  2 pixel less for button to match size */
-    border: none;
-    color: white;
-}
-
 a {
     color: #ffffff;
     text-decoration: none;
