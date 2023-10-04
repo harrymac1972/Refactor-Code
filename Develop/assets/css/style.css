@@ -78,6 +78,11 @@ aside {
     background-color: #2589bd;
 }
 
+aside section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 aside img {
     display: block;
     margin: 10px auto;
@@ -90,7 +95,6 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 
 footer h2 {
     font-size: 20px;
@@ -109,10 +113,10 @@ footer h2 {
     color: #d9dcd6;
 }
 
-.benefits {
+/* .benefits {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
 .content {
     margin-bottom: 20px;
