@@ -14,8 +14,8 @@ In Git Bash please type use:    git clone https://github.com/harrymac1972/m1_cha
 
 ## Usage
 
-![alt text](./Develop/assets/images/sceenshot-index-html.png)
-![alt text](./Develop/assets/images/screenshot-finished-homepage.png)
+![sample html repair](./assets/images/sceenshot-index-html.png)
+![top of home page](./assets/images/screenshot-finished-homepage.png)
 
 ## Credits
 
