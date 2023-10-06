@@ -4,7 +4,7 @@
 
 The intent of this project is to refactor the existing and functional HTML into acceptable standards for semantics and thus 'Accessability'.
 Screen readers, etc, will now be able to read through the HTML for those with accessability issues.
-I've learned that Divs are to be mostly avoided and replaced with 'Semantic Elements' such as <header>, <section>, <aside>, etc.
+I've learned that Divs are to be mostly avoided and replaced with 'Semantic Elements' such as 'header', 'section', 'aside', etc.
 
 ## Installation
 
@@ -25,7 +25,3 @@ Resources:
 
     https://www.codecademy.com/resources/blog/semantic-html/
 
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
