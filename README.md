@@ -14,7 +14,7 @@ In Git Bash please type use:    git clone https://github.com/harrymac1972/m1_cha
 
 ## Usage
 
-![sample html repair](./assets/images/assets/images/sceenshot-index-html.png)
+![sample html repair](./assets/images/sceenshot-index-html.png)
 ![top of home page](./assets/images/screenshot-finished-homepage.png)
 
 ## Credits
