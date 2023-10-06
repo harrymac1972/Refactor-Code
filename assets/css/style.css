@@ -133,6 +133,7 @@ footer h2 {
 /* ======== IDS ======== */
 
 /* the image was put into index.html for accessability */
+/* and alt attribute was then able to be added */
 #header-image {
     width: 100%;
     height: 800px;
