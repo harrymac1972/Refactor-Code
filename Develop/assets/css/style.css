@@ -1,7 +1,11 @@
+
+/* ======== HTML ELEMENTS ======== */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h3 {
@@ -28,9 +32,14 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header = navbar and background image */
+
+header, footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -44,7 +53,6 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -57,6 +65,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* main = main content left of sidebar */
+
 main {
     width: 75%;
     display: inline-block;
@@ -67,7 +77,6 @@ main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -76,6 +85,8 @@ main img {
     max-height: 200px;
 }
 
+/* aside = sidebar */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -83,7 +94,6 @@ aside {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -101,7 +111,6 @@ aside img {
 footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
@@ -109,20 +118,7 @@ footer h2 {
     font-size: 20px;
 }
 
-
-/* should be in HTML because an 'alt' is not available (?) */
-#header-image {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#seo {
-    color: #d9dcd6;
-}
+/* ======== CLASSES ======== */
 
 .float-left {
     float: left;
@@ -132,5 +128,19 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/* ======== IDS ======== */
+
+/* the image was put into index.html for accessability */
+#header-image {
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+/* highlights the 'SEO' concept in the company's name */
+#seo {
+    color: #d9dcd6;
 }
 
